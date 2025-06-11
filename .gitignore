@@ -1,5 +1,7 @@
-# PDFはpushしない
+# ビルドしたものはpushしない
 **/*.pdf
+**/*.html
+**/*.pptx
 
 # 隠したいファイルはsecretsに入れる
 **/secrets/
