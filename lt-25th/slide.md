@@ -24,7 +24,7 @@ style: |
   /* その他のスライドは明るい背景 */
   section:not(.title-slide) {
     background: 
-      linear-gradient(135deg, rgba(199, 224, 247, 0.95) 0%, rgba(230, 245, 255, 0.95) 50%, rgba(178, 220, 252, 0.9) 100%),
+      linear-gradient(135deg, rgba(197, 252, 241, 0.95) 0%, rgba(255, 255, 255, 0.95) 50%, rgba(191, 236, 251, 0.9) 100%),
       url('./images/Slide2.jpg');
     background-size: cover, cover;
     background-position: center, center;
@@ -120,6 +120,10 @@ style: |
 # 25卒LT会
 
 中岡暉
+
+<div style="position: absolute; top: 250px; left: 150px; width: 200px; height: auto;">
+  <img src="./images/IMG_7559.jpg" alt="写真" />
+</div>
 
 ---
 
