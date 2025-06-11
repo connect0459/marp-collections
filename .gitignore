@@ -1,2 +1,5 @@
+# PDFはpushしない
+**/*.pdf
+
 # 隠したいファイルはsecretsに入れる
 **/secrets/
