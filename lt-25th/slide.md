@@ -24,7 +24,7 @@ style: |
   /* その他のスライドは明るい背景 */
   section:not(.title-slide) {
     background: 
-      linear-gradient(135deg, rgba(197, 252, 241, 0.95) 0%, rgba(255, 255, 255, 0.95) 50%, rgba(191, 236, 251, 0.9) 100%),
+      linear-gradient(135deg, rgba(253, 246, 220, 0.95) 0%, rgba(255, 255, 255, 0.95) 50%, rgba(245, 230, 216, 0.9) 100%),
       url('./images/Slide2.jpg');
     background-size: cover, cover;
     background-position: center, center;
